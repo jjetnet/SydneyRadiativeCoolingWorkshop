@@ -21,15 +21,15 @@
 title: Sydney Radiative Cooling Workshop
 email: boris.kuhlmey@sydney.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
-  Sydney Radiative Cooling and Thermoradiative Power Workshop, October 2025, The Unviersity of Sydney, Australia
+  Sydney Radiative Cooling and Thermoradiative Power Workshop, October 2025, The University of Sydney, Australia
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
-remote_theme: pages-themes/midnight@v0.2.0
+# remote_theme: pages-themes/midnight@v0.2.0
 # Build settings
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
