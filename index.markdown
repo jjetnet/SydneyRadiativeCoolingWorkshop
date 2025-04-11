@@ -1,6 +1,6 @@
 ---
 title: "Sydney Radiative Cooling Workshop 2025"
-permalink: sydneyradiativecooling.info
+permalink: index.html
 layout: default
 ---
 # Sydney Radiative Cooling Workshop 2025
