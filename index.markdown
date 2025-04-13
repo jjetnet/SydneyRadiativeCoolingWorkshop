@@ -6,7 +6,19 @@ layout: default
 # Sydney Radiative Cooling Workshop 2025
 *The University of Sydney, October 1-3, 2025*
 
+# Topics
+## Passive radiative cooling:
+- Principles and theory 
+- Films, paints and coatings
+- Textiles and natural fibres
+- Industry - passive cooling in the real world
 
+## Thermoradiative power
+- Principles and theory
+- Photonic enhancements
+- Mid-IR semiconductors
+
+---
 
 # Confirmed Speakers
 ## Keynote Speaker:
@@ -24,9 +36,10 @@ layout: default
 - Dr Alex Song, *University of Sydney*
 - Dr Sid Assawaworrarit, *University of Sydney*
 
+---
 
 # Program
 - Wednesday 1 October 2025, 6pm: Peter Domachuk Memorial Lecture: Prof Shanhui Fan
 - Thursday 2-3 October 2025: Sydney Radiative Cooling and Thermoradiative Power Workshop 
 
-<div align="center"><img src="/assets/sydlogo.png" height="200px"> <img src="/assets/new-UNSW-logo-png-vertical-crest.png" height="200px"></div>
+<div align="center"><img src="/assets/sydlogo.png" height="200px" style="float: left"> <img src="/assets/new-UNSW-logo-png-vertical-crest.png" height="200px" style="float: right"></div>
