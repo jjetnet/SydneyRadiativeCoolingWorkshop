@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sydney Radiative Cooling Workshop
+title: Sydney Radiative Cooling Workshop 2025
 email: boris.kuhlmey@sydney.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
-  Sydney Radiative Cooling and Thermoradiative Power Workshop, October 2025, The University of Sydney, Australia
+   An invitation-only workshop on  radiative cooling and thermoradiative power, Sydney 1-3 October 2025, The University of Sydney, Australia.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb

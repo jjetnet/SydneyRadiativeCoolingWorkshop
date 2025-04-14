@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 ## Organizing committee:
-- Boris Kuhlmey *(The University of Sydney)*
-- Alex Song *(The University of Sydney)*
+- Boris Kuhlmey, co-chair *(The University of Sydney)*
+- Alex Song, co-chair *(The University of Sydney)*
 - Ned Ekins-Daukes *(University of New South Wales)*
 - Michael Nielsen *(University of New South Wales)*
 
