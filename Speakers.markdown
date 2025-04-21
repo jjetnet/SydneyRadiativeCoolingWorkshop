@@ -2,6 +2,7 @@
 layout: page
 title: Speakers
 permalink: /speakers/
+nav_order: 3
 ---
 ## Keynote Speaker:
 - Prof Shanhui Fan, *Stanford University*
