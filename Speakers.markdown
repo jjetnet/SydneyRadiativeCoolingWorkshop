@@ -14,7 +14,6 @@ nav_order: 3
 - Prof Mat Santamouris, *University of New South Wales*
 - Prof Ned Ekins-Dawkes, *University of New South Wales*
 - Dr Angus Gentle, *University of New South Wales*
-- Prof Devi Stuart-Fox, *University of Melbourne*
 - A/Prof James Bullock, *University of Melbourne*
 - Prof Yuerui (Larry) Lu, *Australian National University*
 - Prof Chiara Neto, *University of Sydney*
