@@ -32,6 +32,7 @@ layout: home
 - Prof Mat Santamouris, *University of New South Wales*
 - Prof Ned Ekins-Dawkes, *University of New South Wales*
 - Dr Angus Gentle, *University of New South Wales*
+- Dr Ioannis Kousis and Dr. Hassan Khan, *University of New South Wales*
 - A/Prof James Bullock, *University of Melbourne*
 - Prof Yuerui (Larry) Lu, *Australian National University*
 - Dr Xiaolin (Shannon) Wang, *Australian National University*
