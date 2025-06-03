@@ -38,6 +38,7 @@ layout: home
 - Prof Kenneth Crozier, *University of Melbourne*
 - Prof Yuerui (Larry) Lu, *Australian National University*
 - Dr Xiaolin (Shannon) Wang, *Australian National University*
+- Prof Yuri Kivshar, *Australian National University*
 - Prof Chiara Neto, *University of Sydney*
 - Prof Martijn de Sterke, *University of Sydney*
 - Dr Alex Song, *University of Sydney*
