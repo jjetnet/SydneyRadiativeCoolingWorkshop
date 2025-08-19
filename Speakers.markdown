@@ -22,7 +22,6 @@ nav_order: 3
 - Dr Xiaolin (Shannon) Wang, *Australian National University*
 - Prof Yuri Kivshar, *Australian National University*
 - Prof Chiara Neto, *University of Sydney*
-- Prof Martijn de Sterke, *University of Sydney*
 - Dr Alex Song, *University of Sydney*
 - Dr Sid Assawaworrarit, *University of Sydney*
 - Prof Stefan Maier, *Monash University*
