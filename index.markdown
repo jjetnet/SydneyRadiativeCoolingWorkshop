@@ -29,7 +29,7 @@ layout: home
 - Prof Shanhui Fan, *Stanford University*
 
 ## Invited Speakers
-see the [Speakers page](speakers.markdown) for full list
+see the [Speakers page](Speakers.markdown) for full list
 
 
 
