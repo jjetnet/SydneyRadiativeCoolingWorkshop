@@ -19,6 +19,3 @@ The workshop aims to bring together key researchers in the field of passive radi
 
 ***Workshop***: The University of Sydney's Science Foundation through the Grand Challenge scheme 
 
-## Registration
-The workshop is by invitation only. 
-Contact boris.kuhlmey@sydney.edu.au if you would like to attend.  
