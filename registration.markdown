@@ -4,7 +4,13 @@ title: Registration
 permalink: /Registration/
 nav_order: 5
 ---
-Workshop registration is now open. 
-The Peter Domachuk Memorial Lecture and workshop require separate registrations. Please compelte both forms if you plan to attend both events.
+Workshop registration is now open. Registration will close on September 7, 2025 (Sydney time). 
+
+Speakers will be asked to upload title and abstract (text only, 100-300 words) at the time of registration.
+
+The Peter Domachuk Memorial Lecture and workshop require separate registrations. Please complete both forms if you plan to attend both events.
+
+- [Sydney Radiative Cooling workshop registration (Oct 2-3, 2025)](https://events.humanitix.com/sydney-radiative-cooling-workshop-2025) 
 - [Public lecture registration (Oct 1, 2025)](https://www.sydney.edu.au/science/news-and-events/events/dr-peter-domachuk-memorial-lecture.html) 
-- [Sydney Radiative Cooling workshop registration (Oct 2-3, 2025)](https://events.humanitix.com/sydney-radiative-cooling-workshop-2025) Registration will close on September 7, 2025.
+
+If you have any problems with the registration process, please [contact us](mailto:boris.kuhlmey@sydney.edu.au).
