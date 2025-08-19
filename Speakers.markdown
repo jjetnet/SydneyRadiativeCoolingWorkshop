@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Speakers
-permalink: /speakers/
+permalink: /Speakers/
 nav_order: 3
 ---
 ## Keynote Speaker:
