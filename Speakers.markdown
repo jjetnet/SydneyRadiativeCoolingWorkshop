@@ -24,5 +24,6 @@ nav_order: 3
 - Prof Chiara Neto, *University of Sydney*
 - Dr Alex Song, *University of Sydney*
 - Dr Sid Assawaworrarit, *University of Sydney*
-- Prof Stefan Maier, *Monash University*
 - Prof Michael Fuhrer, *Monash University*
+- Prof Pingan Song, *University of Southern Queensland*
+
