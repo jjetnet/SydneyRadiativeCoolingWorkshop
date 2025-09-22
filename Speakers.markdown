@@ -26,4 +26,4 @@ nav_order: 3
 - Dr Sid Assawaworrarit, *University of Sydney*
 - Prof Michael Fuhrer, *Monash University*
 - Prof Pingan Song, *University of Southern Queensland*
-
+- A/Prof Xiawa Wang, *Duke Kunshan University*
