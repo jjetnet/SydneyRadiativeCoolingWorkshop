@@ -12,5 +12,6 @@ The Peter Domachuk Memorial Lecture and workshop require separate registrations.
 
 - [Sydney Radiative Cooling workshop registration (Oct 2-3, 2025)](https://events.humanitix.com/sydney-radiative-cooling-workshop-2025) 
 - [Public lecture registration (Oct 1, 2025)](https://www.sydney.edu.au/science/news-and-events/events/dr-peter-domachuk-memorial-lecture.html) 
+- [Workshop dinner at Rubyos on Oct 2, 7pm (separate registration)](https://events.humanitix.com/sydney-radiative-cooling-workshop-dinner/tickets)
 
 If you have any problems with the registration process, please [contact us](mailto:boris.kuhlmey@sydney.edu.au).
