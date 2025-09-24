@@ -7,8 +7,6 @@ layout: home
 > The University of Sydney, October 1-3, 2025
 <p> <br></p>
 
-# Registration
-[Workshop registration is now open](registration.markdown). Registration will close on September 7, 2025 (Sydney time). 
 
 # Topics
 ## Passive radiative cooling:
