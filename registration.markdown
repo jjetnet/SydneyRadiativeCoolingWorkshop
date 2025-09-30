@@ -2,7 +2,7 @@
 layout: page
 title: Registration
 permalink: /Registration/
-nav_order: 5
+nav_order: 6
 ---
 Workshop registration  closed on September 7, 2025 (Sydney time). 
 
